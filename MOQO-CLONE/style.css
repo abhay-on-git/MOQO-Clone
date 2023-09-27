@@ -606,7 +606,7 @@ a:any-link:hover{
 }
 
 
-/* Media Queries */
+/* Media Queries --------------------------- */
 
 @media (width <= 600px) {
     header .hl{
@@ -767,7 +767,7 @@ a:any-link:hover{
        font-weight: 500;
      }
      .page6{
-        min-height: 110vh;
+        min-height: 145vw;
      }
      .page6 .top{
         justify-content: center;
@@ -846,5 +846,4 @@ a:any-link:hover{
         font-size: 3vw;
         line-height: 4vw;
      }
-    
 }
