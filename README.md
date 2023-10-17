@@ -4,3 +4,12 @@
 <img src="https://media.giphy.com/media/mFBhx5cbmlMJBMsLAQ/giphy.gif" alt="ExitedGIF" width="200">
 
 ## Common Click the Link to see Live Demo
+
+
+## In This FrontEnd Project I Build the deep Concepts in Morden Web Design with Core Technoligies.
+### Html
+### Css
+### Javascript
+### Gsap 
+### Responsiveness
+### Cool Animations
